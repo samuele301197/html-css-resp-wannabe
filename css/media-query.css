@@ -1,0 +1,21 @@
+
+
+@media screen and (max-width: 780px) {
+    .container{
+      width: 80%;
+      margin: 0 auto;
+    }
+}
+  
+
+
+@media screen and (max-width: 480px) {
+    .row{
+        display: inline;
+    }
+
+    .why-us{
+        background-color: black;
+    }
+    
+}
